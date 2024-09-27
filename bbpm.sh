@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-# set script as executable: chmod +x bbpm.sh
-# put this line into .bashrc: alias bbpm=<path/to/script>/bbpm.sh
-# usage: bbpm install mtr
 
 PACKAGE_LIST=(mtr)
 PACKAGE_SOURCES=(git@github.com:traviscross/mtr.git)
